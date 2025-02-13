@@ -59,9 +59,9 @@ const messages = [
     "Really sure???",
     "Bwubub pweaseeee",
     "WHY ARE YOU STILL CLICKING",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
+    "BRO ARE YOU FR",
+    "okay im gonna cry now",
+    "bwubub whyyyyyyyyyyy",
     "Ok fine, I will stop asking",
     "I lied click yes rn hun ❤️"
 ];
